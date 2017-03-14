@@ -3,7 +3,7 @@ A Bot Source For Seen  (New Tg)
 
 # Install
 <pre>
-git clone https://github.com/kinghazrat/sinchi && cd sincchi && chmod +x tg && chmod +x sinchi.sh && chmod +x install.sh && ./install.sh
+git clone https://github.com/kinghazrat/sinchi && cd sinchi && chmod +x tg && chmod +x sinchi.sh && chmod +x install.sh && ./install.sh
 </pre>
  Launch: ./sinchi.sh
 # Sudo
