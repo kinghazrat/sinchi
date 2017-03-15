@@ -1,4 +1,4 @@
-# SinChi
+# sinchi
 A Bot Source For Seen  (New Tg)
 
 # Install
